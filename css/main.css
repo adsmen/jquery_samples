@@ -1,0 +1,21 @@
+.container {
+    width: 940px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.empty {
+    margin-top: 20px;
+    min-height: 100px;
+    min-width: 200px;
+    border: 1px solid red;
+}
+
+.active {
+    border: 1px solid green;
+}
+
+.list {
+    margin-top: 20px;
+    list-style-type: none;
+}
